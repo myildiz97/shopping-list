@@ -3,5 +3,5 @@
  - Add new item
  - Delete item(s)
 
-# preview
+# Preview
 https://shopping-list-myildiz97.netlify.app
